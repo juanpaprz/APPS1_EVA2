@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "EVA1_12_CLIMA"
